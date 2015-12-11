@@ -155,3 +155,7 @@
 	height: 256px;
 	width: 256px;
 }
+body{
+	width: 900px;
+	margin: 0 auto;
+}
