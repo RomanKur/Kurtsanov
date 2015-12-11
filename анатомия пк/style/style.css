@@ -130,3 +130,8 @@
 	text-align: center;
 	background-color: #99cc99;
 }
+.button{
+	border: 1px solid black;
+	background-color: #b3bc20;
+	text-align: center;
+}
