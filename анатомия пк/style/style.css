@@ -28,7 +28,13 @@
 	margin-right: 60px;
 }
 #nav{
-	border: 1px solid green;
+}
+#nav:after{
+	display: block;
+	content: ".";
+	height: 0;
+	visibility: hidden;
+	clear: both;
 }
 .block-menu{
 	display: inline;
@@ -44,9 +50,6 @@
 	text-align: center;
 	background-color: #b3bc20;
 	display: block;
-	
-	
-
 }
 .menu {
 	width: 430px;
@@ -55,9 +58,7 @@
 	font-size: 16px;
 	text-align: center;
 	background-color: #fce17e;
-	display: block;
-	
-	
+	display: block;	
 }
 
 .block4{
