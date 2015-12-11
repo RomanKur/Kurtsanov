@@ -27,11 +27,14 @@
 	float: right;
 	margin-right: 60px;
 }
+#nav{
+	border: 1px solid green;
+}
 .block-menu{
 	display: inline;
 	float: left;
 	margin-left: 12px;
-	
+	width: 430px;
 }
 .sub-header {
 	width: 430px;
@@ -149,5 +152,6 @@
 #img-center{
 	position: relative;
 	left: 330px;
+	height: 256px;
 	width: 256px;
 }
