@@ -27,9 +27,6 @@
 	float: right;
 	margin-right: 60px;
 }
-#raspolozenie{	
-	
-}
 .block-menu{
 	display: inline;
 	float: left;
@@ -145,10 +142,6 @@
 .footer{
 	border-bottom: 1px solid black;
 }
-body{
-	width: 900px;
-	margin: 0 auto;
-}
 .text{
 	text-align: center;
 	font-size: 14px;
@@ -156,4 +149,5 @@ body{
 #img-center{
 	position: relative;
 	left: 330px;
+	width: 256px;
 }
